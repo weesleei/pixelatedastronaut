@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xE68f2D689c1b728D93d0345500B67204e4BDF61A",
+  "SCAN_LINK": "https://polygonscan.com/address/0xe68f2d689c1b728d93d0345500b67204e4bdf61a",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Pixelated Astronauts",
+  "SYMBOL": "PIXELATED ASTRO NFT",
+  "MAX_SUPPLY": 9500,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": 0.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pixelatedastronauts",
+  "SHOW_BACKGROUND": true
+}
